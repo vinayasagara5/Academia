@@ -43,10 +43,10 @@ const Testimonials = () => {
                 <span>Academia ,USA</span>
               </div>
               <p>
-                Choosing to pursue my degree at Academia was one of the best
-                decisions I've ever made. The supportive community ,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                Enrolling at Academia was one of the smartest choices I've ever
+                made. The nurturing community, modern facilities, and unwavering
+                focus on academic achievement have greatly enriched my
+                educational experience.
               </p>
             </div>
           </li>
@@ -78,10 +78,10 @@ const Testimonials = () => {
                 <span>Academia ,USA</span>
               </div>
               <p>
-                Choosing to pursue my degree at Academia was one of the best
-                decisions I've ever made. The supportive community ,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                Deciding to study at Academia has proven to be an outstanding
+                choice. The encouraging community, state-of-the-art resources,
+                and strong commitment to academic quality have gone above and
+                beyond what I anticipated.
               </p>
             </div>
           </li>
@@ -95,10 +95,10 @@ const Testimonials = () => {
                 <span>Academia ,USA</span>
               </div>
               <p>
-                Choosing to pursue my degree at Academia was one of the best
-                decisions I've ever made. The supportive community ,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations.
+                Enrolling at Academia was one of the smartest choices I've ever
+                made. The nurturing community, modern facilities, and unwavering
+                focus on academic achievement have greatly enriched my
+                educational experience.
               </p>
             </div>
           </li>
